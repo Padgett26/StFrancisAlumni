@@ -1,0 +1,2 @@
+BackBox Image Viewer script
+Script and install instructions can be found here: http://www.javascriptkit.com/script/script2/backbox/
